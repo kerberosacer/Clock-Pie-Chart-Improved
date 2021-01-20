@@ -1,0 +1,15 @@
+C:\Users\jandrews\source\repos\ChartJabel\ChartJabel\bin\Debug\ChartJabel.exe.config
+C:\Users\jandrews\source\repos\ChartJabel\ChartJabel\bin\Debug\ChartJabel.exe
+C:\Users\jandrews\source\repos\ChartJabel\ChartJabel\bin\Debug\ChartJabel.pdb
+C:\Users\jandrews\source\repos\ChartJabel\ChartJabel\obj\Debug\MainWindow.g.cs
+C:\Users\jandrews\source\repos\ChartJabel\ChartJabel\obj\Debug\App.g.cs
+C:\Users\jandrews\source\repos\ChartJabel\ChartJabel\obj\Debug\ChartJabel_MarkupCompile.cache
+C:\Users\jandrews\source\repos\ChartJabel\ChartJabel\obj\Debug\ChartJabel_MarkupCompile.lref
+C:\Users\jandrews\source\repos\ChartJabel\ChartJabel\obj\Debug\MainWindow.baml
+C:\Users\jandrews\source\repos\ChartJabel\ChartJabel\obj\Debug\ChartJabel.g.resources
+C:\Users\jandrews\source\repos\ChartJabel\ChartJabel\obj\Debug\ChartJabel.Properties.Resources.resources
+C:\Users\jandrews\source\repos\ChartJabel\ChartJabel\obj\Debug\ChartJabel.csproj.GenerateResource.cache
+C:\Users\jandrews\source\repos\ChartJabel\ChartJabel\obj\Debug\ChartJabel.csproj.CoreCompileInputs.cache
+C:\Users\jandrews\source\repos\ChartJabel\ChartJabel\obj\Debug\ChartJabel.exe
+C:\Users\jandrews\source\repos\ChartJabel\ChartJabel\obj\Debug\ChartJabel.pdb
+C:\Users\jandrews\source\repos\ChartJabel\ChartJabel\obj\Debug\ChartJabel.csprojAssemblyReference.cache
